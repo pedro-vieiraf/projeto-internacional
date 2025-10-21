@@ -69,9 +69,7 @@ Pense no GitHub como uma "linha do tempo" ou "histórico" dos seus arquivos. Ele
 
 
 3. **Selecione as branches corretas:**
-   - **base repository:** repositório original do hackathon
    - **base:** main
-   - **head repository:** seu fork
    - **head:** sua-branch
 
 4. **Descreva seu projeto:**

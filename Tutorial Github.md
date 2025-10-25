@@ -3,6 +3,7 @@
 ## O que é o GitHub?
 
 Pense no GitHub como uma "linha do tempo" ou "histórico" dos seus arquivos. Ele guarda todas as versões dos seus arquivos e permite que várias pessoas trabalhem juntas sem se atrapalhar.
+Basicamente é um armazenador de arquivos como o Google Drive, porém você pode revisitar todas as versões que um arquivo teve.
 
 ### 📚 Conceitos Básicos
 

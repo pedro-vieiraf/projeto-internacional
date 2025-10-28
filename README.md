@@ -51,6 +51,7 @@ Os projetos devem atender a pelo menos um dos seguintes pilares:
 ### 2. **Inscreva-se**
 - Preencha o [formulário de inscrição](https://forms.gle/n1rCNBMuSQD28yUC8)
 - Participe do palco de abertura (obrigatório para pelo menos um membro da equipe)
+- Após preencher o forumulário, seu acesso a este repositório será liberado. (Lembre-se de usar o mesmo email do seu github) 
 
 ### 3. **Desenvolva seu projeto**
 - Podendo ser, mas não exclusivo: Estudo técnico, Prova de Conceito, MVP

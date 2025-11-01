@@ -129,6 +129,9 @@ Todos os participantes que submeterem projetos receberão:
 - 🔍 Visibilidade para projetos destacados
 - 🚀 Acompanhamento para projetos promissores
 
+Obs: Seu certificado será enviado por email.
+- Através do email `coletivo@cpdd.com.br`, fique atento ao seu spam por favor. :relaxed: 
+
 ## 📝 Documentação do Projeto
 
 Cada projeto deve conter na raiz:

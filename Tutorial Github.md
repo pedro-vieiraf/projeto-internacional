@@ -13,6 +13,8 @@ Basicamente é um armazenador de arquivos como o Google Drive, porém você pode
 
 **Arquivo .md:** São arquivos de texto com formatação simples (Markdown). Você pode escrever normalmente, mas pode usar `**negrito**`, `*itálico*` e `# títulos` se quiser.
 
+## Alternativamente, veja o [vídeo tutorial](https://youtu.be/RtZ5-aU6gY8). ##
+
 ---
 
 ## 🚀 Passo a Passo: Criando sua Branch

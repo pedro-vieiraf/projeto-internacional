@@ -74,9 +74,9 @@ Os projetos devem atender a pelo menos um dos seguintes pilares:
 | Data | Evento |
 |------|--------|
 | 21/11/2025 | Divulgação do material e abertura das inscrições |
-| 28/11/2025 20:00 | Palco de abertura |
+| 28/11/2025 18:00 | Palco de abertura |
 | 28/11/2025 22:00 | Encerramento das inscrições |
-| 30/11/2025 12:00 | Anuncio de encerramento |
+| 30/11/2025 22:00 | Anuncio de encerramento |
 | 14/12/2025 | Apresentação dos projetos destacados |
 
 ## ⚖️ Critérios de Revisão
